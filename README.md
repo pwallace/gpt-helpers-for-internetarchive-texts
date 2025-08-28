@@ -12,7 +12,7 @@ Below is a description of each script and its usage.
 
 **Purpose:**  
 Automates the extraction and transcription of tables of contents (ToC) from digitized magazine issues hosted on the Internet Archive.  
-For each issue, the script downloads the first magazine page preview image and uses GPT-4o to identify and transcribe the ToC.
+For each issue, the script downloads up to three magazine page preview images, and uses GPT-4o to identify and transcribe the ToC.
 
 **Process:**
 
