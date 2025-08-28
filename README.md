@@ -1,6 +1,6 @@
 # GPT-supported Helper Scripts for Internet Archive texts
 
-Python tools for extracting and summarizing content from digitized magazine and newspaper text files.  
+Python tools for extracting and summarizing content from digitized texts (particularly items in Internet Archive).  
 
 Below is a description of each script and its usage.
 
