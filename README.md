@@ -101,7 +101,7 @@ python newspaper-frontpage-describer.py identifiers.txt
 
 ---
 
-## General Notes
+### General Notes
 
 - Both scripts require **Python 3**.
 - Input files should be plain text, UTF-8 encoded.
@@ -110,18 +110,11 @@ python newspaper-frontpage-describer.py identifiers.txt
 
 ---
 
-## Questions?
-
-For help with a specific script, consult the README files or script comments for details.
-
-
----
-
 ## 3. GPT-Summarizer: Automated Archival Transcript Summarizer
 
 ---
 
-## Overview
+### Overview
 
 **GPT-Summarizer** is a Python script for batch-generating concise, neutral summaries of archival transcript files using OpenAI's GPT models.
 
@@ -131,7 +124,7 @@ The default prompt is designed for archivists and librarians who need profession
 
 ---
 
-## How It Works
+### How It Works
 
 - Reads all `.txt` files from the `source` directory.
 - For each transcript:
@@ -143,14 +136,14 @@ The default prompt is designed for archivists and librarians who need profession
 
 ---
 
-## Prompt Design
+### Prompt Design
 
 - The system prompt instructs GPT to avoid value judgments, speculation, and sensitive information (e.g., emails, URLs).
 - The summary should be under 200 words, focusing on succinctness, accuracy, readability, and completeness.
 
 ---
 
-## Usage
+### Usage
 
 1. Place your transcript `.txt` files in the `source` directory.
 2. Set your OpenAI API key as an environment variable:  
@@ -169,7 +162,7 @@ The default prompt is designed for archivists and librarians who need profession
 
 ---
 
-## Requirements
+### Requirements
 
 - Python 3.7+
 - Packages: `openai`, `tiktoken`
@@ -177,7 +170,7 @@ The default prompt is designed for archivists and librarians who need profession
 
 ---
 
-## Notes
+### Notes
 
 - The script uses GPT-3.5-turbo by default; you may change the model as needed.
 - The script is designed for batch processing and will process all `.txt` files in the `source` directory.
@@ -185,7 +178,7 @@ The default prompt is designed for archivists and librarians who need profession
 
 ---
 
-## Example Workflow
+### Example Workflow
 
 1. Prepare your transcript files in the `source` directory.
 2. Ensure your OpenAI API key is set.
