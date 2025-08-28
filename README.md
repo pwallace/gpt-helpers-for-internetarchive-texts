@@ -1,4 +1,4 @@
-# GPT-supported Helper Scripts for Internet Archive texts
+# GPT-supported helper scripts for Internet Archive texts
 
 Python tools for extracting and summarizing content from digitized texts (particularly items in Internet Archive).  
 
