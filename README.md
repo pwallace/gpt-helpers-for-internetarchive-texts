@@ -1,4 +1,4 @@
-# Middlebury College Magazine & Newspaper Describer Scripts
+# GPT-supported Helper Scripts for Internet Archive texts
 
 Two Python tools for extracting and summarizing content from digitized magazine and newspaper text files.  
 
