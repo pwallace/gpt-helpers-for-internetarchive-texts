@@ -1,0 +1,1640 @@
+Act 250 at 50: 
+Obstacles and Opportunities for the Future 
+
+
+Spencer Ainsworth 
+Isabel Herrick 
+Hollis Rhodes 
+
+
+ENVS 0401: Community Engaged Practicum 
+Middlebury College 
+15 December 2019 
+
+
+Table of Contents 
+
+
+L-Execütivė Summary eaen esd ehes Sates hohe E det whee E 3 
+ASIP AC Exe eee sit Soca noes he oak aeebaua vad ec atest ioeenieeuls Rede couts auubedenentseuEes 3 
+GIS Analysis: Lowering the Elevation Threshold..................cceeceeeeee eee e ees 3 
+Recommendations ser a Sew ae es ae E SAS ES a ERE 5 
+
+Limiting Forestry EX€Mmptions...... 0.00000 cc cece cece nnn eee een n nee e eee tes 5 
+Potential for Carbon OSSCts ves vscuessasdeaxee a axewlea vat deieusdaaye Rane ieee eoedes 5 
+Environmental Justice Criterion... 0.00.0 cccc ccc cece nnn e cece nent cece ee ennaaeeeees 6 
+Green Building SIGHNdGtAS 60a seebecan sca iva vehn eens woe bedaa eRe Sead anes eee 7 
+
+II. Context for Policy Recommendations.................:e ccc eeceeeee cence eens eeaeeeenens 9 
+GIS Analysis: Lowering the Elevation Threshold..................cceeceeeeeee eee ee en 9 
+Limiting Forestry Exemptions 4s. scvscceatitesiy ies aidade essed deeviclve os obsaceeese: 16 
+Potential for Carbon Offsets............. cc ccc ccc cece eee e eee e eee e nent eee e ee enna ae tenes 16 
+Environmental Justice Criterion.......... 00... cece cece cece eee n ects eee eeenaaeeeeee ees 21 
+Green Building StandardSssi sroin e Ea EE EE EEE E EEOSE 23 
+
+M Appendi K eeren eee e e e EE E A S Eene 26 
+
+
+AE LE A rE A E E E E EE 36 
+
+
+I. Executive Summary 
+Abstract: 
+
+
+Act 250 is a comprehensive environmental review process whereby all developments over 
+certain jurisdictional thresholds are required to go through a permitting process to assess their 
+impact on the environment and the surrounding community. Act 250 was originally passed in 
+1970 in response to concerns about overdevelopment in the state resulting from population 
+growth. The original vision of the bill was to support compact village centers surrounded by a 
+working agricultural landscape with an emphasis on conserving blocks of intact forests with 
+high levels of connectivity. Unfortunately, Vermont’s development patterns have strayed from 
+this vision. A slow erosion of the act’s jurisdictional power over the last fifty years and the need 
+to address new environmental challenges necessitate the passage of a new bill to update Act 250 
+and prepare Vermont for the future. As part of this process, we worked with Representatives Amy 
+Sheldon and Trevor Squirrell, and were charged with performing GIS analysis related to the 
+proposed lowering of the elevation threshold for which Act 250 jurisdiction would apply, as well 
+as proposing recommendations regarding environmental justice, climate change, and forest 
+fragmentation. With the GIS analysis and four recommendations detailed below we hope to 
+actualize the function of Act 250 in support of a more hopeful and just future that conserves 
+Vermont’s unique ecosystem for all to enjoy. 
+
+
+GIS Analysis: 
+
+
+Vermont Land Classified by Elevation 
+
+
+DE 
+CHITTENDEN EF VA CALEDONIA 
+
+
+4 WASHINGTON 
+
+
+Elevation Classes 
+
+
+I) <1500ft 
+I) 1500-20008 
+
+
+DO 2000-25008 
+
+
+= >2500ft 
+
+
+N 
+10 20 40 
+Miles A 
+
+
+
+
+
+Considering the legislature’s emphasis on using Act 250 as a land use regulation capable 
+of shaping Vermont’s landscape, it is important to consider the spatial effects of the new bill. To 
+that end, a GIS analysis was conducted to assess 1) how much land could potentially fall under 
+Act 250 jurisdiction by lowering the elevation threshold from 2500 ft to 2000 or even 1500 ft 
+and 2) how many parcels have previously had a development which went through the Act 250 
+process. Some regions of Vermont, notably the northwest and the Champlain Valley, have no 
+land above 2000 ft so the lowering of the elevation threshold would have no effect on them. 
+Others, such as the southwestern portion of the state and the Northeast Kingdom have extensive 
+areas of land above that elevation. Specifically, 25% of the land in Bennington County and 15% 
+of the land in Essex County is between 2000 and 2500 ft. Furthermore, it is important to 
+acknowledge that much of the high elevation land in southwest VT is federal national forest land 
+whereas the high elevation land in the Northeast Kingdom is privately owned, typically by 
+timber companies. Therefore, it is more likely that this high elevation land will end up being sold 
+and developed, placing it under the jurisdiction of Act 250. Lowering the threshold to 1500 ft 
+would affect the state more evenly. All but three counties contain between 13 and 33% land 
+between 1500 and 2000 ft. 
+
+Another conclusion from the GIS analysis is that the current format of Act 250 data limit 
+the extent of spatial analysis. Act 250 permits are recorded as point data which can be deceptive 
+because points cannot represent the acreage actually covered by the Act 250 permit. Some 
+developments, such as a new trailhead in the Green Mountain National Forest, are best 
+represented by a point whereas other developments span an entire parcel and would be better 
+
+
+represented by a polygon. A complete map showing the total acreage of land covered by Act 250 
+
+
+cannot be created without more specific data. We recommend that all future Act 250 permits 
+
+
+require applicants to include a polygon shapefile of the proposed development 
+
+
+Recommendations: 
+
+
+1. Remove forestry, farming, and power exemptions on development and subdivision that 
+occurs on a parcel of forestland greater than or equal to 1,500 acres in size. 
+
+
+The intention behind this recommendation is to change the jurisdictional trigger for the 
+subdivision of parcels in ecologically valuable forest blocks and development in the most critical 
+areas for forest integrity, a method which the Vermont Department of Forests, Parks and 
+Recreation and the Agency of Natural Resources promoted in their Vermont Forest 
+Fragmentation Report in 2015. This would allow Act 250 to review projects with the most 
+potential to disrupt critical resource areas while minimizing regulation for smaller forest blocks 
+and large non-forested parcels (Vermont Department of Forests, Parks and Recreation 2015). 
+The Department of Fish and Wildlife identified the best examples of habitat blocks to be 500 to 
+1,000 acres or larger (Sorenson & Osborne 2011). The Department of Forests, Parks and 
+Recreation as well as the Agency of Natural Resources and the Fish and Wildlife Department, 
+determine large forest blocks to be the most important because they provide recolonization space 
+for species displaced by climate change and other environmental stressors. Given that there are 
+66 private or municipal parcels greater than or equal to 1,500 acres in Vermont, we consider this 
+
+
+a good size threshold for protecting forest blocks (Keeton et al., 2018). 
+
+
+2. When any development or subdivision occurs on parcels of 450 acres or greater, 
+regardless of exemptions, that property must undergo an assessment to be part of the 
+carbon market. For details see report section on Vermont Forest Carbon Sequestration 
+Working Group (p.16). 
+
+
+One issue landowners face when considering generating carbon offsets is balancing the 
+cost of assessment with the price of carbon credits. As a result, it has historically only made 
+sense for landowners with several thousand acres to enter the carbon market. The intention 
+behind a 450-acre threshold is that the Vermont Forest Carbon Sequestration Working would 
+recommend a process for the state to aggregate adjoining parcels to achieve economies of scale. 
+Properties below 450 acres are not currently feasible for forest carbon projects due to financially 
+viable aggregation projects totaling 5,000 acres, and the need for individual parcels to be a 
+minimum number of acres so that credits can be generated (Keeton et al. 2018). 
+
+The Vermont Department of Forests, Parks, and Recreation encourages monetizing 
+ecosystem services as a method to promote forest integrity. Through this recommendation, Act 
+250 would provide information disclosure for the state and assist in streamlining the forest 
+carbon offset issuance process for Vermont forest landowners. Furthermore, this 
+
+
+recommendation would also address forest fragmentation and climate change. 
+
+
+3. We recommend an additional criterion be added that requires developers to demonstrate 
+they will not violate the Environmental Protection Agency’s definition of environmental 
+justice. This criterion will require a community participation process through public 
+hearings if any concerns are raised with regards to environmental injustice. 
+
+
+By restricting marginalized, low-income, and minority populations from having a 
+voice in the decision-making process regarding the environmental consequences of 
+developments in their communities, state law can perpetuate environmental injustice in 
+Vermont. While Criterion 8 of Act 250 requires developers to consider cultural and historical 
+implications of site placement, there is no specific language regarding environmental justice 
+in the act (Draft of Bill to Act 250 2019). We recommend that the committee add a new 
+
+
+criterion that includes the definition of environmental justice: “the fair treatment and 
+
+
+meaningful involvement of all people regardless of race, color, national origin, or income 
+with respect to the development, implementation, and enforcement of environmental laws, 
+regulations, and policies” (EPA 2013). 
+
+Under this new criterion, all projects seeking an Act 250 permit would have to 
+demonstrate that they will not violate this criterion. If concerns are raised regarding any 
+project not meeting the environmental justice standards, the developers, in conjunction with 
+the district commission, would need to hold public hearings to allow community members to 
+have an active voice in the development and decision-making process. Under this criterion’s 
+definition of environmental justice, fair treatment occurs when “no group of people ... bear a 
+disproportionate burden of environmental harms and risks, including those resulting from the 
+negative environmental consequences of industrial, governmental, and commercial operations 
+or programs and policies” (EPA 2013). The EPA outlines four requirements for the 
+meaningful involvement of all people: “(1) potentially affected community members have an 
+appropriate opportunity to participate in decisions about a proposed activity that will affect 
+their environment and/or health; (2) the public’s contribution can influence the regulatory 
+agency’s decision; (3) the concerns of all participants involved will be considered in the 
+decision-making process; and (4) the decision makers seek out and facilitate the involvement 
+of those potentially affected” (EPA 2013). 
+
+
+4. To combat the imminent threat of climate change to Vermont ecosystems, we recommend 
+that Act 250 include a new criterion that requires specific green building standards. 
+
+
+Act 250 requires developers to consider sustainable and regenerative building 
+practices, however there is no specific requirement for renewable energy infrastructure on 
+
+
+the proposed building site. Several different sustainable building frameworks are marketed 
+
+
+to developers, the most prominent being LEED certification. While it is not practical for Act 
+250 to require LEED certification on all projects seeking a permit, aspects of this 
+certification should be incorporated into an Act 250 criterion. Specifically, Act 250 should 
+expand sustainable building standards by requiring that all buildings include renewable 
+energy sources on site, if possible. Additionally, all developers must include plans for how 
+the development could achieve or transition to zero net energy (ZNE), a system in which all 
+buildings produce as much energy as they consume over the course of a year from 
+renewable energy sources on site. Developers applying for an Act 250 permit should also 
+consider seeking ZNE on a community or campus scale so that multiple renewable energy 
+sources can power larger developments. 
+
+This recommendation draws inspiration from California’s goal to have all new 
+residential and commercial buildings reach ZNE by 2030 (California Public Utilities 
+Commission 2019). While this goal is ambitious to implement on a state-wide scale, the 
+presence of climate change and renewable energy legislation in Vermont and California will 
+aid the expansion of ZNE requirements. Act 250 can utilize California’s framework for 
+adopting a statewide ZNE system that will minimize Vermont’s reliance on carbon-intense 
+
+
+energy sources. 
+
+
+II. Context for Policy Recommendations and GIS Analysis 
+
+
+As students of Middlebury College’s Environmental Studies Community-Engaged 
+Practicum, we partnered with representatives Amy Sheldon and Trevor Squirrel to provide 
+recommendations for Act 250’s new draft bill. As Act 250 celebrates its 50th Anniversary in 
+2020, Vermont legislators have been tasked with updating the statute to address lowering the 
+elevation threshold as well as climate change, forest fragmentation and environmental justice - 
+issues not covered by the original statute. We have performed GIS analyses regarding lowering 
+the elevation threshold, have extensively researched case studies on land use regulation from the 
+local to international level concerning the three issues listed above, and have provided four 
+recommendations so that Act 250 can better address them. This section is an elaboration on these 
+
+
+recommendations, previously introduced in the executive summary. 
+
+
+GIS Analysis: 
+
+The original goal of the GIS analysis was to assess the impact of lowering the Act 250 
+elevation threshold based on the topography of Vermont and the pre-existing spatial distribution 
+of Act 250 permits. Analyzing the topography of Vermont was a straightforward process of 
+reclassifying a digital elevation model to reflect elevation thresholds and then calculating the 
+distribution of each class across different spatial scales (see Appendix for methodology). The 
+resulting map, Figure 1, shows that at the county scale the land between 1500 and 2000 ft is 
+more equally distributed than the land between 2000 and 2500 ft. Assessing the spatial 
+distribution of Act 250 permits is far more difficult. Currently, Act 250 permits are only recorded 
+
+
+as point data even though the permits are associated with parcels. The permit point data can be 
+
+
+10 
+
+
+merged with a parcel map by selecting all parcels intersected by Act 250 points, but doing so 
+fails to reflect the true extent of land covered by Act 250 permits for two reasons. 
+
+First, an Act 250 permit often does not cover an entire parcel. For instance, the Green 
+Mountain National Forest contains some of the largest parcels in the state and one Act 250 
+permit within its boundaries is for the construction of a new trailhead. In that case, classifying 
+the entire parcel as under Act 250 would overcount the actual area covered by the permit by 
+several thousand acres. Therefore, the 14% of the total state land area calculated as under Act 
+250 permits (Figure 2) represents an upper bound on the actual amount of land covered. Because 
+more detailed polygon shapefiles are not available for permits, the actual number cannot be 
+calculated. 
+
+The second problem with representing Act 250 permits with point data is that inaccuracy 
+is inevitable. The points are often located on the margins of parcels near roads and sometimes 
+those points are erroneously placed outside of the property parcel and within the road parcel. 
+This problem is illustrated by Figures 3 and 4 which show all of the Act 250 permits within a 
+section of Burlington. It appears that every road is covered by an Act 250 permit but that is an 
+error. All of the roads in this area are represented by a single polygon and this polygon is 
+mistakenly intersected by a point circled in yellow in Figure 4. Based on the description 
+associated with the point, it was intended to be placed on the adjacent parcel, but as a result of 
+the mistake, all of the roads in the area were highlighted. 
+
+The current status of Act 250 permit data prevents meaningful analysis of current 
+statewide Act 250 coverage from being conducted. In order for state regulatory agencies to better 
+understand the status of Act 250 permits and land-use regulation across the state, we 
+
+
+recommend that all future Act 250 permits require applicants to include a polygon 
+
+
+11 
+
+
+shapefile of the proposed development. To address the status of the thousands of permits 
+which currently only exist as point data, we propose converting them to polygons by 
+georeferencing the site plans included in the applications though this may be too daunting a 
+project to undertake. 
+
+As aresult of the limitations of the data mentioned above, the other maps and table which 
+had been previously drafted were omitted from this section but are included in the appendix, 
+
+
+along with a detailed explanation of the workflow used to generate each figure. 
+
+
+12 
+
+
+Vermont Land Classified by Elevation 
+
+
+FRANKLIN 
+ORLEANS 
+
+
+LAMOILLE 
+
+
+CHITTENDEN CALEDONIA 
+
+
+WASHINGTON 
+
+
+ADDISON 
+
+
+Elevation Classes 
+
+
+I) <15008 
+IY) 1500-20008 
+
+
+BENNINGTON Ea 2000-2500ft 
+
+
+= >2500ft 
+
+
+WINDHAM 
+N 
+
+
+40 
+Miles A 
+
+
+
+
+
+Figure 1. Vermont Land Classified by Elevation. Data from VCGI. 
+
+
+
+
+
+VT Parcels Under Act 250 
+
+
+Act 250 
+
+
+HE ~o 
+ME Yes 
+
+
+
+
+
+N 
+
+
+0510 20 A 
+
+
+
+
+
+
+
+
+Figure 2. Vermont parcels under Act 250. Note that this map shows parcels with an Act 250 
+permit but does not represent the total acreage covered by Act 250. Also note that this map was 
+made in November 2019 while the VCGI was in the process of digitizing parcels for every town 
+which explains the missing data. As of 12/11/2019, the parcel data for all but one town is 
+available. Data from VCGI. 
+
+
+13 
+
+
+Burlington Parcels with Act 250 Permits 
+
+
+Y; 
+
+
+La 
+
+
+
+
+
+Figure 3. Burlington parcels with Act 250 permits. All parcels highlighted in green are 
+intersected by Act 250 permits. Data from VCGI. 
+
+
+14 
+
+
+15 
+
+
+
+
+
+Figure 4. A subset of Figure 3 demonstrating the potential for inaccuracy with using point data. 
+The red rectangle in the inset map shows the extent of Fig. 4 within the context of Fig. 3. The 
+
+
+point in question is circled in yellow. Data from VCGI. 
+
+
+16 
+
+
+Recommendation 1: Remove forestry, farming, and power exemptions on development and 
+subdivision that occur on parcels of forestland greater than or equal to 1,500 acres in size. 
+
+
+The Vermont Department of Forests, Parks and Recreation conducted a forest 
+fragmentation report, which drew attention to 80% of Vermont forestland being privately owned, 
+and the fact that the demographic of these landowners is changing. The forest landowners are 
+getting older, precipitating a change in ownership to a younger generation, which the Agency of 
+Natural Resources considers a risk to increasing levels of forest fragmentation. The new draft 
+bill to Act 250 intends to repeal the farming, logging, and forestry exemptions when those 
+activities occur in critical resource areas. This draft bill also includes sufficient definitions of 
+forest block, fragmentation, connecting habitat, and other important and relevant terms. 
+Therefore, when a development goes through the Act 250 review process, the statute - especially 
+when the current draft bill to Act 250 reinforces it with additional protection measures for forest 
+fragmentation - has the ability to conserve forest blocks and critical areas. This recommendation 
+lowers the jurisdictional threshold so that any development or subdivision on 1,500 acres of 
+forestland or greater must go through Act 250, which ensures more large forest blocks go 
+through the Act 250 process, thereby increasing the chances that the most important forest 
+blocks, interior forest habitats, and critical resource areas are protected. 
+
+Recommendation 2: When any development or subdivision occurs on parcels of 450 acres or 
+greater, regardless of exemptions, that property must undergo an assessment to be part of the 
+
+
+carbon market. For details see below section, Vermont Forest Carbon Sequestration Working 
+Group. 
+
+
+Forest Carbon Offsets Addressing Climate Change 
+To address climate change, Vermont is committed to reducing 80 to 95 percent of 
+greenhouse gas emissions below 1990 levels by 2050. Climate change is a complicated problem 
+
+
+that requires a multi-pronged approach. The Nature Conservancy (TNC) promotes avoided 
+
+
+17 
+
+
+deforestation and reforestation as cost-effective and successful ways to reduce greenhouse gas 
+emissions (TNC 2018). U.S. forests currently offset between 10 to 20% of U.S. emissions each 
+year (Patch 2019). TNC believes that avoided deforestation and reforestation could reduce 
+greenhouse gas emissions by one third of the amount required by 2030 to keep global warming 
+below 2°C (TNC 2018). They also find it important that, “as carbon markets continue to grow, 
+payments for carbon offsets could offer income for landowners who adopt climate-friendly 
+management strategies” (TNC 2018). With a warming climate, protecting Vermont forests will 
+be increasingly important because Vermont is in a transition area and as a result the state is 
+expected to witness significant climate in-migration. An important step to prepare forests for the 
+future is to protect wildlife corridors and critical habitat areas, and to promote forest blocks, 
+which cannot exist if the forest is fragmented. 
+Role of Vermont Forest Carbon Sequestration Working Group 
+The Vermont Forest Carbon Sequestration Working Group is a group within the 
+
+legislature that is putting together a report regarding facilitating forest carbon offset issuance for 
+interested landowners. By the end of their term in January 2020, they will determine which 
+respective departments in the executive branch will undertake a Vermont carbon offset program. 
+The group’s final conclusions will determine whom Act 250 will inform of forestland properties 
+450 acres or greater. Thus far, the group is planning to recommend that: 
+
+1. The Department of Forests, Parks and Recreation develop a public information 
+
+resource regarding forest carbon sequestration programs. 
+2. The Agency of Natural Resources evaluate the feasibility of enrolling municipal 
+
+
+and state forestland into a forest carbon sequestration program. 
+
+
+18 
+
+
+(Montpelier (Vermont) State House, Minutes of Meetings of the Vermont Forest Carbon 
+Sequestration Working Group, Meeting of 19 November 2019). 
+
+
+The success of this recommendation is largely dependent on the Vermont Forest 
+Carbon Sequestration Working Group’s ability to instate a carbon aggregation project or 
+process at the state level by the end of their term. With this recommendation, any 
+development or subdivision on forestland properties of 450 acres or more will undergo an 
+assessment to be part of the carbon market. Act 250’s role in this would be to inform the 
+appropriate state carbon sequestration entity of the offset potential of any 450 acre or greater 
+forestland property once they trigger Act 250 with this new criterion. 
+
+
+Our interview with Billy Coster, the Agency of Natural Resources’ director of planning, 
+referred us to the Cold Hollow to Canada (CHC) Aggregation Project, Vermont Forest Carbon 
+Report, and the Vermont Forest Carbon Sequestration Working Group. He informed us that the 
+Vermont government was exerting much effort to study the potential of compensating 
+landowners for sequestering carbon. According to Coster, there is much interest in monetizing 
+ecosystem services, and carbon offsets are great because they balance efforts to conserve forest 
+resources while also supporting struggling landowners. 
+
+The Vermont Forest Carbon Report - 450 Acre Reasoning 
+
+The Vermont Forest Carbon Report was conducted and advised by organizations such as 
+the Spatial Informatics Group, University of Vermont, Nature Conservancy, and Vermont Land 
+Trust. The purpose of the report is to determine the best way for as many Vermont forest 
+landowners as possible to access the carbon markets, so that forestland can be conserved while 
+
+
+providing woodlot owners with an additional revenue stream. The intention behind a 450-acre 
+
+
+19 
+
+
+threshold is due to the Vermont Forest Carbon Report conclusion that properties below this 
+threshold are not currently feasible for forest carbon projects due to high administrative costs. 
+
+Project aggregation allows for forest owners with insufficient forestland to generate 
+carbon offsets and attain an additional revenue stream. This is especially relevant for Vermont, 
+considering that privately owned forestland has, on average, a low parcel size. In order to be 
+cost efficient, it is recommended that projects aggregate to achieve 5,000 acres in size. If the 
+parcels are all on the order of 450 acres, this would mean that at least ten adjoining parcels must 
+be aggregated. There is a potential for properties of a smaller size to be aggregated, which the 
+Vermont Forest Carbon Report considers to be a minimum of 200 acres. However, this would 
+significantly increase the number of adjoining parcels that must be aggregated to attain a total 
+project size of 5,000 acres. In addition, there would need to be some larger parcels, of at least 
+500 acres in size, to anchor a project. The report concluded that forest carbon projects are not 
+currently feasible on properties lower than several hundred acres in size: “a forest carbon project 
+is simply not viable without a minimum number of acres over which credits can be generated 
+from both baseline reductions and annual growth” (Keeton et al. 2019, 35). The CHC project 
+also used 450 acres as the threshold when aggregating properties. 
+
+The Vermont Forest Carbon Report found that there are 328,461 acres of privately- 
+owned parcels greater than 500 acres in size and that have at least 450 acres of forest each. Of 
+these, roughly 285,000 acres are within or adjacent to priority forest blocks and are highly 
+ranked for flood resilience benefits (Keeton et al. 2019). 
+
+Act 250 Information Disclosure for Offset Potential 
+The Toxic Release Inventory (TRI) is a federal program which tracks the management of 
+
+
+toxic chemicals. Facilities in different industry sectors must annually report the release and 
+
+
+20 
+
+
+management of chemicals across their life cycle. The information which facilities submit is 
+compiled into the Toxics Release Inventory and allows for companies, the public, and 
+government to make informed decisions (EPA 2019). 
+
+Similar to the TRI, with this recommendation, Act 250 would disclose information to the 
+state regarding the potential for parcels to be aggregated and assist in streamlining the forest 
+carbon offset issuance process for Vermont forest landowners. 
+
+Cold Hollow to Canada Forest Carbon Aggregation Project 
+
+The Cold Hollow to Canada Forest Carbon Aggregation Project in the Cold Hollow 
+Mountains in Northern Vermont aggregates forestland with at least 450 acres and helps 
+landowners access the carbon market. The program performs a climate change analysis for 
+woodlot owners’ forest management plans, which informs landowners of how much carbon they 
+are currently sequestering and the potential for them to sequester more. CHC then works with 
+UVM and the Vermont Land Trust to sell carbon credits at a Vermont scale on the voluntary 
+market. The mission of CHC is to aggregate smaller forest parcels to create a large enough area 
+to sell on the carbon market. Historically, it was only financially viable for landowners with 
+several thousand acres to enter the carbon market (to balance the cost of assessment with the 
+price of the carbon credits). The CHC project makes Vermont forest landowners eligible for the 
+carbon market who otherwise would not have been. The preliminary value of a credit in the 
+CHC aggregation model is approximately $15.00 per acre per year over a ten-year period (Patch 
+2019). 
+
+Limitations 
+Aggregated carbon projects are mostly limited to the voluntary markets, because the main 
+
+
+compliance carbon market - California Air Resource Board’s (CARB) cap-and-trade program - 
+
+
+21 
+
+
+does not allow project aggregation. Three central voluntary carbon market standards in North 
+America are the Climate Action Reserve (CAR), American Carbon Registry (ACR) and the 
+Verified Carbon Standards (VCS), which all permit project aggregation. The CHC project sold 
+carbon credits on the voluntary market, but did not disclose through which registry (Patch 2019). 
+The Nature Conservancy’s Burnt Mountain project is a recent 5,500-acre acquisition on which 
+they placed a “forever wild” easement to help create an 11,000 acre block of unfragmented forest 
+that will be protected in perpetuity (The Nature Conservancy 2019). The project is not 
+financially feasible for the California carbon market and will also be entering the voluntary 
+market (Vermont Forest Carbon Sequestration Working Group 2019). 
+
+Most importantly, the success of this recommendation is largely dependent on the 
+Vermont Forest Carbon Sequestration Working Group’s ability to instate a carbon aggregation 
+project or process at the state level by the time they submit their report in January. 
+Recommendation 3: We recommend an additional criterion be added that requires developers to 
+prove they will not violate the Environmental Protection Agency’s definition of environmental 
+justice. This criterion will require a community participation process through public hearings if 
+any concerns are raised with regards to environmental injustice. 
+
+Act 250 does not contain any criteria or jurisdictional thresholds that require developers 
+to consider environmental justice concerns in Vermont. Specifically, Criterion 8 requires that 
+developments have no undue adverse effect on aesthetics, historical sites, rare or irreplaceable 
+natural areas, however, there is no consideration for “the fair treatment and meaningful 
+involvement of all people regardless of race, color, national origin, or income” with respect to 
+the implementation of these permits (EPA 2013). Thus, it is important to consider which 
+communities have been disproportionately affected by development projects, polluting 
+
+
+industries, toxic waste sites and other environmental hazards in Vermont. 
+
+
+22 
+
+
+Environmental Justice: The economics of race, place and pollution, discusses how 
+“disproportionate siting, discriminatory politics and enforcement, and coming to the 
+nuisance” are all mechanisms for the distribution and concentration of observed 
+environmental inequities in different communities (Banzhaf et al. 2019). Often, low income 
+and minority communities are forced to “live closer to Superfund sites and to large air 
+polluters” and “suffer more from the adverse consequences of such proximity” (Banzhaf et al. 
+2019). By including an environmental justice criterion, Act 250 will provide a platform for 
+communities to raise concerns regarding environmental injustices in Vermont—specifically 
+related to reviewing site placement during the permitting process. 
+
+Act 250 currently only covers around 30 percent of developments in Vermont, however 
+developments with Act 250 permits often have an outsized effect on the surrounding 
+community. For example, the proposed Champlain Parkway in Burlington is a road that will 
+cut through the South End neighborhood (Lamdin 2019). While this project has been 
+reconfigured over the past few decades to appease intense opposition in the city, it is still 
+critical to consider what populations this project will affect moving forward. The Champlain 
+Parkway was granted an Act 250 permit, however, at the time, the Act 250 criteria did not 
+require developers to consider how their project would disproportionately affect low-income 
+or minority communities and community members now question whether the project’s 
+environmental impact statement is up to date (Lamdin 2019). 
+
+The construction of this parkway not only highlights the need for an Act 250 
+environmental justice criterion moving forward, but also the need for an increased awareness 
+surrounding the disproportionate effect of environmental injustices on low-income Vermont 
+
+
+communities. Vermont’s cost of living has increased over the past 50 years, thus it is 
+
+
+23 
+
+
+extremely important that low-income and marginalized communities have clean, safe places 
+to live without threat of disruptive or polluting developments. 
+
+By including a criterion that focuses solely on providing the definition of 
+environmental justice, developers will have to prove that they do not violate the terms of the 
+criterion. If concerns are raised that the development will disproportionately affect low- 
+income or minority communities then the developers will be required to work with the 
+community to alter the development plans. The new criterion will require district 
+commissioners to hold community meetings so that community members will be able to 
+voice concerns on the proposed project. Additionally, this criterion will require that 
+developers be a part of these scheduled meeting. 
+
+Recommendation 4: To combat the imminent threat of climate change on the Vermont ecosystem, 
+we recommend that the draft bill of Act 250 include a new criterion that requires specific green 
+building infrastructure. 
+
+Act 250 requires developers to consider if their projects preserve natural resources, 
+conserve energy and reduce environmental degradation; however Act 250’s criteria are 
+flexible in how they suggest developers implement green technology and techniques to carry 
+out these goals. Act 250 should introduce a new criterion that requires developers to include 
+renewable energy infrastructure in the building plans if the site allows for it. Furthermore, all 
+developers must include plans for how the development could achieve or transition to zero 
+net energy (ZNE) in the future. 
+
+A ZNE building can produce as much energy as it consumes over the course of a year 
+from renewable sources. While ZNE was first adopted to an individual building scale, this 
+
+
+system can be modeled for a community, district, and campus level to expand customer 
+
+
+24 
+
+
+benefits and minimize costs (California Public Utilities Commission 2019). ZNE reduces the 
+need for “new energy infrastructure costs such as the transmission and distribution upgrades, 
+[achieves] high levels of energy efficiency, and support[s] grid reliability by incorporating 
+technologies such as storage and smart inverters” (Blue Point Planning 2018). The adoption 
+of ZNE also works to “provide affordable access to renewable energy generation” while also 
+utilizing smart grid technologies and aligning with “state energy and environmental policy 
+goals at the community level” (Blue Point Planning 2018). 
+
+Although transitioning to entirely ZNE system has inherent challenges, states like 
+California have paved the way by aiming for all residential buildings to achieve zero net 
+energy by 2020, and all commercial buildings to achieve ZNE by 2030 (California Public 
+Utilities Commission 2019). While this goal does not have legal standing in California, the 
+California Senate Bill 100 has committed the state to clean energy by requiring “renewable 
+energy and zero-carbon resources to supply 100 percent of electric retail sales to end-use 
+customers by 2045” (California Legislative Information 2018). 
+
+Similarly, the state of Vermont has committed to sourcing 90 percent of its energy 
+from renewable sources by 2050 (2016 Vermont Comprehensive Energy Plan 2016). This 
+comprehensive energy plan embraces “a distributed energy future in which a significant 
+portion of Vermont’s energy is produced near where it is consumed, and which is shaped by 
+many coordinated actions by distributed energy users, rather than through singular central 
+control” (Vermont Department of Public Service 2016). Thus, by requiring all developments 
+to include renewable energy infrastructure in their development plans, Act 250 will work 
+jointly with Vermont’s Comprehensive Energy Plan to reach Vermont’s clean energy goal by 
+
+
+2050. 
+
+
+25 
+
+
+In order to implement ambitious state-wide ZNE goals by the suggested dates, 
+California has embraced a multi-faceted framework to address the challenges of 
+implementing renewable energy technology on a large-scale. State-wide subsidies and 
+incentive programs directed by agencies outside of Act 250 are strongly recommended to 
+allow for an affordable transition to ZNE (California Public Utilities Commission, 2019). 
+Blue Point Planning describes in depth the drivers and steps for implementing a ZNE system 
+in California in Commercial & District Zero Net Energy Framework, linked in the appendix. 
+This document provides distinct steps for reaching statewide ZNE, such as an awareness 
+campaign for ZNE, outreach to corporate partners, monitoring energy efficiency 
+performance for buildings, policy guidance and education initiatives for local governments, 
+and district level planning (Blue Point Planning, 2018). 
+
+Act 250 has the ability to catalyze ZNE adoption in the state of Vermont by 
+adopting a framework similar to California’s ZNE program. To that end, Act 250 will 
+drastically reduce carbon emissions in Vermont and increase reliance on clean energy 
+throughout the state. Ultimately, developments that have adopted a ZNE system through 
+Act 250 will change a historically one-way energy flow as it both “contributes power and 
+responds to grid requests to manage load while reducing costs and infrastructure 
+
+
+requirements” (Blue Point Planning 2018). 
+
+
+26 
+
+
+II. Appendix (Supplemental research) 
+
+
+Our appendix focuses on the details of our GIS analysis and the case studies that provided us 
+with strong examples for how specific states and communities in the United States and 
+worldwide have approached climate change, green development, forest fragmentation and 
+environmental justice. The individuals that we interviewed, our community partner Amy Sheldon, 
+and our course work directed us to many of these case studies. While information from our case 
+studies is included in the main portion of the report, additional helpful information can be found 
+in this appendix. 
+
+
+GIS Analysis 
+
+
+Table 1: Percent of Vermont parcels under Act 250 by county. 
+
+
+
+
+
+Percent of Parcels Under Act 250 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27 
+
+
+Table 2: Percent of land area 2000-2500 ft under Act 250 by county. Note that Orleans County is 
+the only county with more than 10% of the land in that category currently under Act 250. 
+
+
+
+
+
+% of Land Area 2000-2500ft Under 
+Act 250 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3: Percent of land area under Act 250 by county. 
+
+
+
+
+
+% of Land Area Under Act 250 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28 
+
+
+
+
+
+Vermont Parcels Classified by Elevation 
+
+
+Elevation Classes 
+
+
+GE <20008 
+
+HN 2000-2500n 
+
+HE -2500 
+
+HEEB Border of 20008 
+Border of 2500ft 
+
+
+
+
+
+
+
+
+Figure 5. Vermont parcels classified by elevation. Note that few parcels are located entirely 
+within either the 2000 or 2500 ft elevation contours so it is difficult to determine exactly how 
+
+
+much additional land would be covered by lowering the Act 250 elevation threshold. 
+
+
+
+
+
+VT Parcels Under Act 250 by Elevation Class 
+
+
+
+
+
+
+
+
+
+Elevation Class, Act250 
+HP <20008(1), No 
+Zz <20008(1), Yes 
+WY) 2000-25008(2), No 
+HBB 2000-25002), Yes 
+T Both 182, No 
+E Both 182, Yes 
+E >25008(3), No 
+EE >2500f(3), Yes 
+E Both 283. No 
+E Both 283, ves 
+HB Ait classes, No 
+
+
+HEB A classes, Yes 
+
+
+
+
+
+
+
+
+
+
+
+0 5 10 20 
+Miles 
+
+
+
+
+
+>z 
+
+
+
+
+
+
+
+
+Figure 6. Vermont parcels under Act 250 classified by elevation. 
+
+
+GIS Methodology 
+Input Layers (all from VCGD;: 
+
+
+- “Act250_points” [point data] 
+- “WTparcels” [polygon data] 
+- “VT_DEM” [30m pixel elevation raster data] 
+
+
+- “VT counties” [polygons of county outlines] 
+
+
+Vermont Elevation Classes (Fig. 1) 
+
+
+1. RECLASSIFY “VT_DEM” into three classes: 
+i. 0-2000: 1 
+ii. 2000-2500: 2 
+iii. 2500-max: 3 
+
+
+29 
+
+
+30 
+
+
+b. Output: “WT_DEM_reclass” (Fig. 1) 
+
+
+VT Parcels Under Act 250 (Fig. 2) 
+
+
+In the attribute table of “WT_parcels”, Add Field called “Act250” (short integer) 
+In “Act250” field, use Field Calculator and enter “Act250” = 0 
+Select by Location “VT_parcels” intersected by “Act250_points” 
+
+
+Foie 3 D 
+
+
+In “Act250” field, use Field Calculator and enter “Act250” = 1 [only the parcels 
+
+
+intersected by Act 250 points are selected so only they will change to 1] 
+
+
+Burlington Parcels with Act 250 Permits (Fig. 3) 
+
+
+1. Adda World Imagery base map and zoom into Burlington 
+2. For “VT_parcels”, set 0 to be blank and 1 to be green and partially transparent 
+
+
+Burlington Parcels with Act 250 Permits (Fig. 4) 
+
+
+1. To add the inset map: 
+Add new data frame called “Inset Map” 
+b. Under properties of the main data frame, go to Extent Rectangles and add “Inset 
+Map” 
+c. Zoom out the inset map to match the extent of Fig. 3 
+
+
+2. Yellow circle was added by exporting the map to Adobe Illustrator 
+
+
+Vermont Parcels Classified by Elevation (Fig. 5) 
+
+
+1. RASTER TO POLYGON “VT_DEM_reclass” 
+
+a. Output: “VT_DEM_polygon” 
+
+2. Export each elevation class polygon into a separate shapefile: 
+
+a. Outputs: “Under2000”,”2000to2500”,”’Over2500” 
+
+3. SPATIAL JOIN “Under2000” to “VTparcels” 
+
+a. Output: “VTparcels_firstjoin” [in the attribute table, the “gridcode” field is either 
+blank if the parcel is not intersected by the “Under2000” polygon or is “1” if the 
+parcel is intersected by the polygon] 
+
+4. SPATIAL JOIN “2000to2500” to “VTparcels_firstjoin” 
+
+
+31 
+
+
+a. Output: “VTparcels_secondjoin” [in the attribute table, the “gridcode1”’ field is 
+either blank if the parcel is not intersected by the “2000to2500” polygon or is “2” 
+if the parcel is intersected by the polygon] 
+
+5. SPATIAL JOIN “Over2500” to “VTparcels_thirdjoin” 
+
+a. Output: “VTparcels_firstjoin” [in the attribute table, the “gridcode2” field is 
+either blank if the parcel is not intersected by the “Over2000” polygon or is “3” if 
+the parcel is intersected by the polygon] 
+
+6. In the attribute table of “WTparcels_thirdjoin’”, go to Select by Attributes, select all 
+parcels where “gridcode1” >0, then go into field calculator and enter “gridcodel = 10” 
+
+7. Repeat step 6 for “gridcode2” and change the values to 100 
+
+8. In the attribute table of “WTparcels_thirdjoin’”, use Add Field to create a new field called 
+“ElevCode” (long integer) 
+
+9. In “ElevCode’”, go to Field Calculator and enter “gridcode + gridcodel + gridcode2” [the 
+
+
+result is that every parcel is classified into elevation classes: 
+
+
+a. 1 =<2000ft 
+b. 10 = 2000-2500ft 
+c. 11 = border between 2000 and 2500ft 
+d. 100 =>2500ft 
+110 = border between 2000-2500 and >2500ft 
+f. 111 = borders all classes] 
+
+
+VT Parcels Under Act 250 by Elevation Class (Fig. 6) 
+
+
+1. Using the “ElevCode” and “Act250” fields in the “VTparcels” attribute table, create the 
+
+
+12 different classes in Symbology 
+Linking County Names to Each Parcel (used for all of the tables) 
+
+
+1. SPATIAL JOIN “VTcounties” to “VTparcels” using the “have their centroid in” joining 
+option [county lines do not line up exactly with parcel boundaries so if you just use 
+“intersect”, some parcels will only be assigned to counties that a sliver of their land area 
+is in. Using the centroid method almost always ensures that the parcel will be assigned to 
+
+
+the county that the majority of its land area is in] 
+
+
+32 
+
+
+Removing Duplicate Parcels 
+
+
+1. 
+
+
+Some parcels with multiple owners will have multiple overlapping polygons. In order to 
+calculate the land area of a county or of a state, these duplicate polygons need to be 
+deleted. Use DELETE IDENTICAL on “VTparcels” with the field “ShapeArea” selected. 
+I’m not sure if this would work for this dataset but if the FID code for the duplicate 
+parcels is the same then you could DISSOLVE on that field. 
+
+
+Case Studies: 
+Wildlife Corridors 
+
+
+The Staying Connected Initiative (SCI) partners with government agencies, 
+universities, and nonprofits to enhance landscape connectivity across the Northern 
+Appalachian and Arcadian regions of the United States and Canada. SCI has nine priority 
+linkages, between critical forest blocks, where they want to ensure the protection of 
+significant parcels that contribute to habitat connectivity, including working forests, 
+forest pathways and river corridors (pdf on website). 
+
+New Mexico’s Wildlife Corridors Act made New Mexico the first state to adopt a 
+comprehensive program to identify wildlife corridors and address barriers to wildlife 
+movement. The act directs New Mexico Department of Game and Fish and their 
+Department of Transportation to develop a joint Wildlife Corridors Action Plan with 
+private landowners, tribes and local communities. 
+
+Oregon’s Wildlife Corridors Bill maps the state’s major wildlife corridors and creates a 
+plan to protect them. In addition to large mammals, it also protects smaller species, which 
+are often overlooked. The purpose of this bill is to maintain wildlife connectivity, which 
+is a key component to address the loss of biodiversity from fragmentation. Oregon has 
+some of the highest rate of vehicle wildlife collisions. 
+
+Beginning with Habitat is a collaborative program of federal, state and local agencies 
+and non-governmental organizations in Maine, whose goal is to conserve plant and 
+wildlife habitat. Legislation requires an analysis, inventory, comprehensive plan, and 
+implementation strategy on the defined critical natural resources. 
+
+Maryland State Wildlife Action Plan discusses how the Maryland Department of 
+Natural Resources needs to outline areas that must be improved to best protect 
+Maryland’s wildlife. Separately, Maryland has a resource conservation plan and 
+corresponding conservation management program that private landowners can follow 
+(MD DNR). 
+
+
+33 
+
+
+Carbon Offset Program 
+
+
+Oregon’s Department of Forestry created a Forest Resource Trust, which administers 
+carbon offset funding (Vermont Forest Carbon Sequestration Working Group). 
+Michigan’s Working Forest Carbon Offset Program, ended in 2011 concurrently with 
+the Chicago Climate Exchange (Vermont Forest Carbon Sequestration Working Group). 
+The Michigan DNR Forest Stewardship Program did cost share for forest management 
+plans and provided outreach and education to foresters about generating carbon offsets 
+(Vermont Forest Carbon Sequestration Working Group). 
+
+The Georgia Forestry Commission operated the Georgia Carbon Sequestration 
+Registry, but saw very low participation (Vermont Forest Carbon Sequestration Working 
+Group). 
+
+The Oklahoma Carbon Sequestration Enhancement Act in 2001 made Oklahoma the 
+first US state with the authority to verify & certify carbon offset. A concurrent OFS 
+Forest Stewardship Program provided stewardship plans to landowners at no cost. Five 
+forestland owners participated and generated carbon offsets (Vermont Forest Carbon 
+Sequestration Working Group). 
+
+The Spatial Informatics Group (SIG) works with carbon project partners to identify 
+key attributes and datasets that can be used to identify parcels statewide that might be 
+suitable for both development of a forest carbon offset project and to help protect and 
+enhance key co-benefits. Interior forest blocks provide notable co-benefits, and were 
+identified in the Vermont Conservation Design project (Keeton et al.). 
+
+The Pinchot Institute is piloting the Forest Health-Human Health (FHHH) Initiative to 
+demonstrate how voluntary carbon markets can provide a funding mechanism to help 
+families maintain their private forestlands (American Carbon Registry). The FHHH 
+Initiative provides family forest owners with the option to implement sustainable forest 
+management practices to store additional carbon in their forests, thus presenting them 
+with an alternative to developing or selling forestland. 
+
+
+
+
+
+Green Development 
+
+
+Blue Point Planning Net Zero Energy Frameworks: Commercial Net Zero Framework 
+and Residential Net Zero Framework. 
+
+
+
+
+
+
+
+
+Shanghai’s Changning District government piloted bold policies and incentives for 
+energy efficiency which at the time had not been replicated on a national level in China. 
+Through this retrofitting process, the Changning government implemented an online 
+energy monitoring platform that tracks 160 of the district’s 165 public buildings. To 
+monitor the building’s energy efficiency, the government uses an online platform that 
+tracks energy usage. This platform works to “assess, manage, monitor and verify energy 
+
+
+34 
+
+
+performance and efficiency opportunities” which, in turn, optimizes the system 
+operations and verifies renewable energy measures in place (World Bank 2019). 
+
+
+“ Technologies would span lighting, heating, ventilation, and air conditioning 
+(HVAC), insulation, envelope, and energy management systems. The ‘pilot’ 
+character of schemes for building EE would come from innovative policies to 
+benchmark performance and mandate retrofit of inefficient buildings, business 
+models to bundle many small projects, and a risk guarantee mechanism to 
+facilitate financing. Data to inform the design and implementation of such policies 
+and mechanisms would be provided by audits and feasibility studies but moreover 
+by advancement in functions of an online monitoring platform. Support for a new 
+near-zero emission (NZE) building would demonstrate its technical and 
+commercial feasibility and drive down costs through the technology learning 
+curve.” (World Bank 2019) 
+
+
+Regenerative design is a movement that critically questions how the built environment 
+can have a net positive impact on the surrounding ecosystem. The Centre for Interactive 
+Research and Development at the University of British Columbia in Canada describes 
+how focusing on site design, energy, water, resource conservation, occupant health, and 
+building operation and maintenance all support regenerative design principles. 
+Specifically, this centre has outlined key guiding principles for creating regenerative 
+buildings: 
+
+
+Design with time in mind— anticipate climate change, design for a 100-year life cycle, 
+build to last but allow for change. 
+
+
+Materials should be selected based on zero waste criteria—design for modification and 
+disassembly, do not use toxic materials. Convert ongoing ‘waste’ streams to useful flows. 
+
+
+Energy use should have a net positive impact on ecological health— minimize onsite 
+consumption, use renewable energy sources, or harness waste heat from adjacent 
+buildings, or displace energy that was being used by adjacent buildings. 
+
+
+Water use should have a net positive impact on ecological health; achieve self-sufficiency 
+on the water flows available to the site. 
+
+
+Site design should produce a net positive impact on ecological health— create additional 
+habitats compared to existing site value. 
+
+
+Provide instrumentation and controls to allow feedback and learning. 
+
+
+Produce a core building that exemplifies best practice, economical solutions. 
+
+
+35 
+
+
+8. Provide a comfortable, healthy environment for inhabitants, including 100 percent natural 
+daylit spaces, and temperature and ventilation under local or individual control. 
+
+
+9. Onan ongoing basis, assess the interaction between the environment provided by the 
+building and the health, productivity, and happiness of those who work and visit it. 
+
+
+2014 2015 2016 2017 2018 2019 2020 
+
+
+lOU SoH aE IOU Program Cycle 2015-2017 IOU Program Cycle 2018-2020 
+
+
+2013 2016 2019 2019 
+Effective Planning Code Cycle Effective Planning Code Cycle Adopted Effective 
+Codes Codes Codes 
+
+
+O Ongoing Agency (CEC/CPUC) Coordination and Collaboration to achieve ZNE Goals 
+
+
+o Finalize ZNE Definition and Messaging 
+
+
+@ Roll Out Statewide Outreach and Awareness Campaign 
+
+
+@ O Demonstration Projects: Single Homes and Community-scale/Subdivision 
+
+
+o ZNE Builder Early Adopter Program Launched 
+© ZNE New Residential Workforce Sector Strategy Adopted 
+@O Q Promote ZNE/EE Labeling/Score Third Party Verification 
+o Highly Engaged Local Governments Support ZNE 
+@ © Information Clearinghouse/Interactive Web Portal Launched 
+© Technical Tools Needs Assessment Completed 
+© Grid Impact Analysis Completed 
+@ Local Government Early Adopter Program Launched 
+Ozne Specific Financing Available 
+@ New ZNE Incentives and Tax Credits 
+O Multifamily, Low Income Incentives Available 
+O Local Government ZNE Reach Code Adoption and Support 
+©) Statewide ZNE Curriculum is Adopted 
+(3) Integrated Suite of Technical Tools Available 
+O Title 24 Requires all reasonable EE Measures 
+
+
+(4) Energy-based Appraisal Standard Utilized 
+
+
+O standard Permitting Process Adopted 
+O Title 24 pt 6, 
+Title 20 
+
+
+promotes 
+ZNE 
+
+
+
+
+
+California Zero Net Energy: This chart visualizes both the framework and guiding principles for 
+implementing ZNE on a state-wide scale. 
+
+
+36 
+
+
+IV. References 
+
+
+“Act 250 Update Project: Review of Several Progressive States Land Use, Development, 
+and Environmental Laws”. 2018. Vermont Planners Association, pp.1-8. 
+
+
+American Carbon Registry. “Forest Health-Human Health Initiative.” Accessed October 
+20, 2019. https://americancarbonregistry.org/resources/forest-health-human-health. 
+
+
+“Bill Text - SB-100 California Renewables Portfolio Standard Program: emissions of 
+greenhouse gases”. 2018. California Legislative Information. 
+https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB 100. 
+
+
+
+
+
+Bisgaeir, Jennifer and Jennifer Pollan. 2018. “The Call for Environmental Justice 
+Legislation: An Annotated Bibliography”. Research & Advocacy Guide: 1-22. 
+
+
+Blue Point Planning. “Commercial & District Zero Net Energy Framework.” Zero net 
+energy California. Accessed December 13, 2019. https://4eae5a23-44d0-41 8e-8d77- 
+
+
+Qe5a216d92ea.filesusr.com/ugd/cc790b_4632fea589974de79b4a7953be7cdc19.pdf 
+
+
+Beginning with Habitat. “Comprehensive Planning.” Accessed October 20, 2019. 
+https://www.beginningwithhabitat.org/toolbox/compplan_critical.html. 
+
+
+
+
+
+Blue Point Planning. “Residential ZNE Action Plan.” Zero net energy California. 
+Accessed December 13, 2019. https://www.capath2zne.org/residentialzneactionplan. 
+
+
+Building Efficiency Accelerator. 2019. Accelerating Building Efficiency Around the 
+World. 
+https://www.buildingefficiencyaccelerator.org/ 
+
+
+
+
+
+California Public Utilities Commission. 2019. “Zero Net Energy”. 
+https://www.cpuc.ca.gov/ZNE/ 
+
+
+
+
+
+Coster, Billy and Amy Sheldon. 2019. “Environmental Equity/ Justice in Vermont”. 
+Vermont Department of Environmental Conservation. 
+https://legislature. vermont.gov/Documents/2020/W orkGroups/House %20Natural/Bills/19- 
+
+
+0040/Written%20Testimony/Racial%20Equity/W ~Billy %20Coster~19- 
+0040,%20Enviornmental%20Justice%20Section%200f%20Environmental %20Equity- 
+
+
+Justice%20in%20V ermont~4-3-2019.pdf 
+
+
+
+
+
+
+
+
+“Draft of Bill to Act 250,” 4 April 2019, Montpelier: Vermont Legislature: 1-84. 
+
+
+37 
+
+
+Duncan, Rick,P.E., PhD. 2018. "2020 is Around the Corner. how Close is California to 
+Meeting its Net Zero Energy Goals?" Energy Design Update 38 (3) (05): 1-5. 
+http://ezproxy.middlebury.edu/login?url=https://search.proquest.com/docview/2034192496?acco 
+untid=12447. 
+
+
+
+
+
+Environmental Collaboration Office. 2016. “Eco Design Guidelines for Commercial 
+Buildings”. Better Buildings Challenge. 
+
+
+https://city.milwaukee.gov/ImageLibrary/BBC/EcoDesignGuidelines 10-16.pdf 
+
+
+Environmental Protection Agency. “What is the Toxics Release Inventory?” Modified 
+September 27, 2019. https://www.epa.gov/toxics-release-inventory-tri-program/what-toxics- 
+release-inventory. 
+
+
+
+
+
+
+
+
+“Environmental Justice.” EPA. Environmental Protection Agency, November 20, 2019. 
+https://www.epa.gov/environmentaljustice. 
+
+
+“Financing Sustainable Cities Initiative.” C40 Cities. Accessed December 13, 2019. 
+https://www.c40.org/programmes/financing_sustainable_cities. 
+
+
+Flint, Anthony. 2015. “Can Regenerative Design Save the Planet?” CityLab. Lincoln 
+Institute of Land Policy, May 20, 2015. https://www.citylab.com/design/2015/05/can- 
+regenerative-design-save-the-planet/393626/. 
+
+
+Gabriel, Cle-Anne, and Carol Bond. 2019. “Need, Entitlement and Desert: A Distributive 
+Justice Framework for Consumption Degrowth.” Ecological Economics 156 (February): 327-36. 
+doi:10.1016/j.ecolecon.2018.10.006. 
+
+
+Hart, Stacy R. 1995. “A Survey of Environmental Justice Legislation in the States.” 
+Washington University Law Quarterly 73 (January): 1459- 1499. 
+
+
+Lamdin, Courtney. 2019. “Burlington Citizen Group Sues to Stop Champlain Parkway”. 
+Seven Days. Last modified June 11, 2019. 
+https://www.sevendaysvt.com/OffMessage/archives/2019/06/1 1/burlington-citizen-group-sues- 
+to-stop-champlain-parkway 
+
+
+Maryland Department of Natural Resources. “Forest Stewardship.” Accessed October 
+20, 2019. https://dnr.maryland.gov/forests/Pages/programapps/stewcon.aspx. 
+
+
+
+
+
+38 
+
+
+Minkler, Meredith, Victoria Breckwich Vasquez, Mansoureh Tajik, and Dana Petersen. 
+2008. “Promoting Environmental Justice through Community-Based Participatory Research: The 
+Role of Community and Partnership Capacity.” Health Education & Behavior 35 (1): 119-37. 
+http://search.ebscohost.com/login.aspx ?direct=true&db=eric& AN=EJ793789&scope=site. 
+
+
+
+
+
+Mulkern, Anne C. 2012. “Gov. Brown Orders Calif. State Buildings to Cut Energy Use, 
+Add Green Power.” https://www.eenews.net/climatewire/stories/1059963516. 
+
+
+
+
+
+Nancy Patch. 2019. "Carbon Sequestration for Climate Mitigation." Cold Hollow to 
+Canada, Special Informatics Groups, Cold Hollow to Canada, 4 April 2019, 
+https://www.coldhollowtocanada.org/what/newsletters/article/news/carbon-sequestration-for- 
+climate-mitigation/. 
+
+
+“Report of the Commission on Act 250: The Next 50 Years,” 2019. Montpelier: 
+Vermont General Assembly : 1-53. 
+
+
+Robert Sanford and Hubert B. Stroud, 1997, “Vermont’s Act 250 Legislation: A Citizen- 
+Based Response to Rapid Growth and Development,” Land Use Policy 14: 239-256. 
+
+
+State of California. 2018. “Executive Order B-55-18 To Achieve Carbon Neutrality”. 
+Executive Department: State of California. 
+https://californiabiodiversityinitiative.org/pdf/executive-order-b-55-18.pdf 
+
+
+
+
+
+Staying Connected Initiative. 2019. “About Staying Connected.” Accessed October 10, 
+2019. http://stayingconnectedinitiative.org/about/. 
+
+
+The Nature Conservancy. “Burnt Mountain Beauty”. Accessed October 15, 2019. 
+https://www.nature.org/en-us/about-us/where-we-work/united-states/vermont/stories-in- 
+
+
+
+
+
+vermont/burnt-mountain-beauty/. 
+
+
+
+
+
+The Nature Conservancy. 2018.“Natural Solutions as a way to address climate change”. 
+Published November 14, 2018. https://www.nature.org/en-us/what-we-do/our- 
+
+
+
+
+
+insights/perspectives/a-natural-path-for-u-s-climate-action/. 
+
+
+
+
+
+University of British Columbia: Center for Interactive Research on Sustainability. “Goals 
+and Targets” : 2-17. http://admin-playground.sites.olt.ubc.ca/files/2016/12/4A_GoalsandTargets- 
+8.5x11_merged.pdf 
+
+
+
+
+
+
+
+
+Vermont Department of Forests, Parks and Recreation. 2015. “2015 Vermont Forest 
+Fragmentation Report, Montpelier, VT: Agency of Natural Resources.” 50-54. 
+
+
+39 
+
+
+Vermont Forest Carbon Sequestration Working Group, “Minutes of Meetings of the 
+Vermont Forest Carbon Sequestration Working Group”. Montpelier, Vermont: 19 November 
+2019. 
+
+
+Vermont Forest Carbon Sequestration Working Group, Roles of US states in facilitating 
+participation in forest carbon markets, Cecilia Danks. University of Vermont: 2019. 
+
+
+William S. Keeton et al. 2018. “Vermont Forest Carbon: A Market Opportunity for 
+Forestland Owners”: 1-31. 
+
+
+Wentz, Jessica. 2010. “Summary of Findings in Local Green Building Incentives 
+Spreadsheet.” Columbia Law School, Center for Climate Change Law : 1-5. 
+
+
+Wildlands Network. “New Mexico Governor Signs First-of-Its-Kind Wildlife Corridor 
+Act into Law.” Accessed October 20, 2019. https://wildlandsnetwork.org/blog/new-mexico- 
+governor-signs-first-of-its-kind-wildlife-corridor-act-into-law/. 
+
+
+Wildlands Network. “Oregon Governor Kate Brown Signs Critical Wildlife Corridor 
+Legislation Into Law.” Accessed October 20, 2019. https://wildlandsnetwork.org/blog/oregon- 
+governor-kate-brown-signs-critical-wildlife-corridor-legislation-into-law/. 
+
+
+
+
+
+
+
+
+Yu, S, M Evans , and Q Shi. 2014. Analysis of the Chinese Market for Building Energy 
+Efficiency, (2014). https://www.pnnl.gov/main/publications/external/technical_reports/PNNL- 
+22761.pdf 
+
+
+“2016 Vermont Comprehensive Energy Plan.” 2016. Vermont.gov. Vermont Department 
+of Public Service. 
+
+
